@@ -17,7 +17,7 @@
     "spotify"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.14.30",
+    "@metascraper/helpers": "^5.14.22",
     "memoize-one": "~5.1.1",
     "spotify-url-info": "~2.0.0",
     "tldts": "~5.6.68"
@@ -51,5 +51,6 @@
     "env": [
       "mocha"
     ]
-  }
+  },
+  "gitHead": "1576714d9f20399e09b896aaf92d74a00b2457d0"
 }

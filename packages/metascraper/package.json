@@ -57,7 +57,7 @@
     "website"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.14.30",
+    "@metascraper/helpers": "^5.14.22",
     "cheerio": "1.0.0-rc.3",
     "cheerio-advanced-selectors": "~2.0.1",
     "lodash": "~4.17.20",
@@ -96,5 +96,6 @@
     "env": [
       "mocha"
     ]
-  }
+  },
+  "gitHead": "1576714d9f20399e09b896aaf92d74a00b2457d0"
 }

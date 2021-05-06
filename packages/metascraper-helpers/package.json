@@ -1,5 +1,5 @@
 {
-  "name": "@metascraper/helpers",
+  "name": "@crowdarchitects/helpers",
   "description": "Collection of helper functions used by metascraper",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-helpers",
   "version": "5.14.30",
@@ -58,5 +58,6 @@
     "env": [
       "mocha"
     ]
-  }
+  },
+  "gitHead": "1576714d9f20399e09b896aaf92d74a00b2457d0"
 }

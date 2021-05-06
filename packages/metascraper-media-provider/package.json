@@ -17,7 +17,7 @@
     "youtube-dl"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.14.30",
+    "@metascraper/helpers": "^5.14.22",
     "debug-logfmt": "~1.0.4",
     "got": "~11.8.0",
     "keepalive-proxy-agent": "~1.1.2",
@@ -62,5 +62,6 @@
     "env": [
       "mocha"
     ]
-  }
+  },
+  "gitHead": "1576714d9f20399e09b896aaf92d74a00b2457d0"
 }

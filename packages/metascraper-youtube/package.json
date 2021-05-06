@@ -17,7 +17,7 @@
     "youtube"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.14.30",
+    "@metascraper/helpers": "^5.14.22",
     "get-video-id": "~3.1.4",
     "is-reachable": "~5.0.0",
     "p-locate": "~5.0.0"
@@ -49,5 +49,6 @@
     "env": [
       "mocha"
     ]
-  }
+  },
+  "gitHead": "1576714d9f20399e09b896aaf92d74a00b2457d0"
 }

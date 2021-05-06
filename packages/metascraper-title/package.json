@@ -16,7 +16,7 @@
     "title"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.14.30",
+    "@metascraper/helpers": "^5.14.22",
     "lodash": "~4.17.20"
   },
   "devDependencies": {
@@ -31,5 +31,6 @@
   "scripts": {
     "test": "exit 0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "1576714d9f20399e09b896aaf92d74a00b2457d0"
 }
