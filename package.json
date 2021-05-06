@@ -1,6 +1,6 @@
 {
   "name": "@crowdarchitects/metascraper",
-  "homepage": "https://github.com/microlinkhq/metascraper#readme",
+  "homepage": "https://github.com/iroin/metascraper#readme",
   "version": "",
   "author": {
     "email": "ian@ianstormtaylor.com",
@@ -16,20 +16,24 @@
       "email": "david@activout.se"
     },
     {
+      "name": "Slava",
+      "email": "slava.ganzin@gmail.com"
+    },
+    {
       "name": "Shawn Dempsey",
       "email": "shwanton@gmail.com"
     },
     {
-      "name": "Slava",
-      "email": "slava.ganzin@gmail.com"
+      "name": "Tino Siegmund",
+      "email": "ts@iroin.io"
     },
     {
       "name": "Wyatt Johnson",
       "email": "wyattjoh@gmail.com"
     },
     {
-      "name": "Nikola Ristic",
-      "email": "risticn6@gmail.com"
+      "name": "Omar Diab",
+      "email": "me@omardiab.com"
     },
     {
       "name": "Iheb KHEMISSI",
@@ -44,8 +48,8 @@
       "email": "github@jonasrottmann.com"
     },
     {
-      "name": "Omar Diab",
-      "email": "me@omardiab.com"
+      "name": "Nikola Ristic",
+      "email": "risticn6@gmail.com"
     },
     {
       "name": "Sampo Juustila",
