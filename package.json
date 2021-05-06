@@ -16,20 +16,16 @@
       "email": "david@activout.se"
     },
     {
-      "name": "Slava",
-      "email": "slava.ganzin@gmail.com"
+      "name": "Tino Siegmund",
+      "email": "ts@iroin.io"
     },
     {
       "name": "Shawn Dempsey",
       "email": "shwanton@gmail.com"
     },
     {
-      "name": "Tino Siegmund",
-      "email": "ts@iroin.io"
-    },
-    {
-      "name": "Wyatt Johnson",
-      "email": "wyattjoh@gmail.com"
+      "name": "Slava",
+      "email": "slava.ganzin@gmail.com"
     },
     {
       "name": "Omar Diab",
@@ -58,6 +54,10 @@
     {
       "name": "Steven Frostwick",
       "email": "steven.frostwick@gmail.com"
+    },
+    {
+      "name": "Wyatt Johnson",
+      "email": "wyattjoh@gmail.com"
     }
   ],
   "repository": {
