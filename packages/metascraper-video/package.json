@@ -35,6 +35,7 @@
     "test": "NODE_PATH=.. TZ=UTC NODE_ENV=test mocha test"
   },
   "license": "MIT",
+  "gitHead": "1576714d9f20399e09b896aaf92d74a00b2457d0",
   "mocha": {
     "bail": true,
     "recursive": true,
@@ -46,6 +47,5 @@
     "env": [
       "mocha"
     ]
-  },
-  "gitHead": "1576714d9f20399e09b896aaf92d74a00b2457d0"
+  }
 }
