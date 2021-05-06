@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-author",
+  "name": "@crowdarchitects/metascraper-author",
   "description": "Get author property from HTML markup",
   "homepage": "https://metascraper.js.org",
   "version": "5.14.23",

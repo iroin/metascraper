@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-media-provider",
+  "name": "@crowdarchitects/metascraper-media-provider",
   "description": "Get video property from HTML markup",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-media-provider",
   "version": "5.14.23",

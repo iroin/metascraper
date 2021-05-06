@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-readability",
+  "name": "@crowdarchitects/metascraper-readability",
   "description": "A Readability connector for metascraper",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-readability",
   "version": "5.14.23",

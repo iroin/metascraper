@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-audio",
+  "name": "@crowdarchitects/metascraper-audio",
   "description": "Get audio property from HTML markup",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-audio",
   "version": "5.14.23",

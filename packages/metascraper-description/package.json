@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-description",
+  "name": "@crowdarchitects/metascraper-description",
   "description": "Get description property from HTML markup",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-description",
   "version": "5.14.23",

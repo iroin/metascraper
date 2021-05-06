@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-publisher",
+  "name": "@crowdarchitects/metascraper-publisher",
   "description": "Get publisher property from HTML markup",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-publisher",
   "version": "5.14.23",

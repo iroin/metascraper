@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-date",
+  "name": "@crowdarchitects/metascraper-date",
   "description": "Get date property from HTML markup",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-date",
   "version": "5.14.23",

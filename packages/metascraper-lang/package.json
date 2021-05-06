@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-lang",
+  "name": "@crowdarchitects/metascraper-lang",
   "description": "Get lang property from HTML markup",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-lang",
   "version": "5.14.23",

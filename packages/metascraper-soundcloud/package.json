@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-soundcloud",
+  "name": "@crowdarchitects/metascraper-soundcloud",
   "description": "metascraper integration with SoundCloud",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-soundcloud",
   "version": "5.14.23",

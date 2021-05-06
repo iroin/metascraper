@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-url",
+  "name": "@crowdarchitects/metascraper-url",
   "description": "Get url property from HTML markup",
   "homepage": "https://metascraper.js.org",
   "version": "5.14.23",

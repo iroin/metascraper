@@ -1,5 +1,5 @@
 {
-  "name": "metascraper-youtube",
+  "name": "@crowdarchitects/metascraper-youtube",
   "description": "metascraper integration with YouTube",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-youtube",
   "version": "5.14.23",
