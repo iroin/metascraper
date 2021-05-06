@@ -2,7 +2,7 @@
   "name": "@crowdarchitects/metascraper-readability",
   "description": "A Readability connector for metascraper",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-readability",
-  "version": "5.14.31",
+  "version": "5.14.32",
   "main": "index.js",
   "repository": {
     "type": "git",

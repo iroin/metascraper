@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.14.32](https://github.com/microlinkhq/metascraper/compare/v5.14.31...v5.14.32) (2021-05-06)
+
+**Note:** Version bump only for package @crowdarchitects/metascraper-video
+
+
+
+
+
 ## [5.14.31](https://github.com/microlinkhq/metascraper/compare/v5.14.30...v5.14.31) (2021-05-06)
 
 **Note:** Version bump only for package @crowdarchitects/metascraper-video

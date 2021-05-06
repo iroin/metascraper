@@ -2,7 +2,7 @@
   "name": "@crowdarchitects/metascraper-youtube",
   "description": "metascraper integration with YouTube",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-youtube",
-  "version": "5.14.31",
+  "version": "5.14.32",
   "main": "index.js",
   "repository": {
     "type": "git",

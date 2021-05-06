@@ -2,7 +2,7 @@
   "name": "@crowdarchitects/helpers",
   "description": "Collection of helper functions used by metascraper",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-helpers",
-  "version": "5.14.31",
+  "version": "5.14.32",
   "main": "index.js",
   "repository": {
     "type": "git",

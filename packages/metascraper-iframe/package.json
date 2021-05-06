@@ -2,7 +2,7 @@
   "name": "@crowdarchitects/metascraper-iframe",
   "description": "Embed a representation of an URL on third party sites",
   "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-iframe",
-  "version": "5.14.31",
+  "version": "5.14.32",
   "main": "src/index.js",
   "repository": {
     "type": "git",
