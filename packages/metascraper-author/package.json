@@ -2,7 +2,7 @@
   "name": "@crowdarchitects/metascraper-author",
   "description": "Get author property from HTML markup",
   "homepage": "https://metascraper.js.org",
-  "version": "5.14.24",
+  "version": "5.14.29",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "metascraper"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.14.24",
+    "@metascraper/helpers": "^5.14.29",
     "lodash": "~4.17.20"
   },
   "devDependencies": {
