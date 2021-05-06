@@ -2,7 +2,7 @@
   "name": "@crowdarchitects/metascraper-title",
   "description": "Get title property from HTML markup",
   "homepage": "https://metascraper.js.org",
-  "version": "5.14.23",
+  "version": "5.14.24",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "title"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.14.23",
+    "@metascraper/helpers": "^5.14.24",
     "lodash": "~4.17.20"
   },
   "devDependencies": {
